@@ -19,7 +19,7 @@
 6. Evaluation metrics
 
 ## Additional Details
-     In this project, the main aim is to predict the next 3 month Sales on item level from a particular Date. So I found the rolling sum for a window 90 days and predicted the Sales.In Model Building XG Boost performs well Compared to other model.
+     #### In this project, the main aim is to predict the next 3 month Sales on item level from a particular Date. So I found the rolling sum for a window 90 days and predicted the Sales.In Model Building XG Boost performs well Compared to other model.
 
 
 
