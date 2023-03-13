@@ -18,8 +18,8 @@
 5. Model Building
 6. Evaluation metrics
 
-## Additional Details
-     #### In this project, the main aim is to predict the next 3 month Sales on item level from a particular Date. So I found the rolling sum for a window 90 days and predicted the Sales.In Model Building XG Boost performs well Compared to other model.
+## About Project
+##### In this project, the main aim is to predict the next 3 month Sales on item level from a particular Date. So I found the rolling sum for a window 90 days and predicted the Sales.In Model Building I used Decision tree Regressor, Random Forest Regressor, Linear Regression, XG Boost,KNN Regresoor are used. In that XG Boost performs well Compared to other model.
 
 
 
